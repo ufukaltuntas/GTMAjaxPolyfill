@@ -1,4 +1,4 @@
-# GTMAjaxPolyfill
+# Google Tag Manager - AjaxPolyfill
  ## Custom HTML tag with the Javascript XHR Request listener
  
 Your form is probably not supported by the built-in Form Submission trigger and is not redirecting users to a "thank you" page. It will likely refresh itself and then display the message "You successfully filled out the form" without any actual page refresh.
